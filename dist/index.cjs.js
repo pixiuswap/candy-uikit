@@ -3486,7 +3486,7 @@ var Logo$2 = function (_a) {
                     React__default['default'].createElement("circle", { className: "st2", cx: 16.9, cy: 19.8, r: 0.1 }),
                     React__default['default'].createElement("circle", { className: "st2", cx: 13.6, cy: 13.9, r: 0.2 })),
                 React__default['default'].createElement("g", null,
-                    React__default['default'].createElement("text", { transform: "translate(30.335 20.775)", fontSize: "17.9741px", fontFamily: "Montserrat-Bold", fill: "#f23030" }, "CandySwap"))))));
+                    React__default['default'].createElement("text", { transform: "translate(37.335 20.775)", fontSize: "17.9741px", fontFamily: "Montserrat-Bold", fill: "#f23030" }, "CandySwap"))))));
 };
 var LogoWithText = React__default['default'].memo(Logo$2, function (prev, next) { return prev.isDark === next.isDark; });
 
