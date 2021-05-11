@@ -457,7 +457,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
           </g>
           <g>
             <text
-              transform="translate(30.335 20.775)"
+              transform="translate(37.335 20.775)"
               fontSize="17.9741px"
               fontFamily="Montserrat-Bold"
               fill="#f23030"
